@@ -1,0 +1,4 @@
+See file:///D:/SII/IC/CICD/build/tmp/linkDebug/output.txt for all output for linkDebug.
+linking CICD.exe successful.
+
+Finished linkDebug, see full log file:///D:/SII/IC/CICD/build/tmp/linkDebug/output.txt.

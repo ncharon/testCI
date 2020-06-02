@@ -1,0 +1,7 @@
+/DEBUG
+/OUT:D:\SII\IC\CICD\build\exe\main\debug\CICD.exe
+/NOLOGO
+"/LIBPATH:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\ucrt\x64"
+D:\SII\IC\CICD\build\obj\main\debug\bjrvo6da98oajz8w82pcnptk\app.obj

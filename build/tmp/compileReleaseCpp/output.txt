@@ -1,0 +1,9 @@
+See file:///D:/SII/IC/CICD/build/tmp/compileReleaseCpp/output.txt for all output for compileReleaseCpp.
+compiling app.cpp successful.
+app.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\ostream(281): warning C4530: Gestionnaire d'exceptions C++ utilis‚, mais les s‚mantiques de d‚roulement n'ont pas ‚t‚ activ‚es. Sp‚cifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\ostream(266): note: pendant la compilation de la fonction membre classe modŠle 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+D:\SII\IC\CICD\src\main\cpp\app.cpp(16): note: voir la r‚f‚rence … l'instanciation de la fonction modŠle 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)' en cours de compilation
+D:\SII\IC\CICD\src\main\cpp\app.cpp(15): note: voir la r‚f‚rence … l'instanciation classe modŠle 'std::basic_ostream<char,std::char_traits<char>>' en cours de compilation
+
+Finished compileReleaseCpp, see full log file:///D:/SII/IC/CICD/build/tmp/compileReleaseCpp/output.txt.

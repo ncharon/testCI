@@ -1,0 +1,4 @@
+See file:///D:/SII/IC/CICD/build/tmp/linkRelease/output.txt for all output for linkRelease.
+linking CICD.exe successful.
+
+Finished linkRelease, see full log file:///D:/SII/IC/CICD/build/tmp/linkRelease/output.txt.
