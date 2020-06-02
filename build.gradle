@@ -35,9 +35,10 @@ distributions {
     }
 }
 
+group='testCI'
 publishing {
     publications {
-        CICD(MavenPublication) {
+        testCI(MavenPublication) {
             artifact distZip
         }
     }
