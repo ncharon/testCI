@@ -41,4 +41,15 @@ publishing {
             artifact distZip
         }
     }
+repositories {
+        maven {
+            credentials {
+                username nexusUsername
+                password nexusPassword
+            }
+            url nexusRepo
+        }
+    }
 }
+
+publish.dependsOn build 
