@@ -19,7 +19,6 @@ plugins {
     // Apply the cpp-unit-test plugin to add support for building and running C++ test executables
     id 'cpp-unit-test'
     id 'maven-publish'
-    id 'cpp'
 }
 
 // Set the target operating system and architecture for this application
@@ -42,15 +41,4 @@ publishing {
             artifact distZip
         }
     }
-    repositories {
-        maven {
-            credentials {
-                username nexusUsername
-                password nexusPassword
-            }
-            url nexusRepo
-        }
-    }
 }
-
-publish.dependsOn build
